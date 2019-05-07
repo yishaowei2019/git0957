@@ -2,9 +2,9 @@ package com.nnxy.student;
 
 public class studentdomel {
 
-		private int sex;
-		private int age;
-		private String name;
+		private int sex;  //0957
+		private int age; //0957
+		private String name;//易少伟
 		private String parssword;
 		public studentdomel(int sex, int age, String name, String parssword) {
 			super();
